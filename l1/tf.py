@@ -1,4 +1,4 @@
-from algos import _l1
+from .algos import _l1
 from cvxopt import matrix
 import numpy as np
 import pandas as pd

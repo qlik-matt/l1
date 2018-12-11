@@ -1,1 +1,1 @@
-from tf import l1, strip_outliers
+from .tf import l1, strip_outliers
